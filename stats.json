@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-06-13",
+  "totalSolved": 2,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-06-14",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 0,
     "hard": 0,
     "basic": 1
   },
   "syncedProblems": {
-    "GeeksForGeeks_Min_and_Max_in_Array": true
+    "GeeksForGeeks_Min_and_Max_in_Array": true,
+    "LeetCode_Two_Sum": true
   },
   "activityHistory": {
-    "2026-06-13": 1
+    "2026-06-13": 1,
+    "2026-06-14": 1
   },
   "todayProblems": [
-    "Min and Max in Array"
+    "Two Sum"
   ]
 }
