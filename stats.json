@@ -3,7 +3,7 @@
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-06-14",
-  "todayCount": 3,
+  "todayCount": 0,
   "difficultyCounts": {
     "easy": 3,
     "medium": 0,
@@ -11,18 +11,16 @@
     "basic": 1
   },
   "syncedProblems": {
-    "GeeksForGeeks_Min_and_Max_in_Array": true,
-    "LeetCode_Two_Sum": true,
+    "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "LeetCode_Move_Zeroes": true,
-    "LeetCode_Remove_Duplicates_from_Sorted_Array": true
+    "LeetCode_Two_Sum": true,
+    "GeeksForGeeks_Min_and_Max_in_Array": true
   },
   "activityHistory": {
-    "2026-06-13": 1,
-    "2026-06-14": 3
+    "2026-06-14": 3,
+    "2026-06-13": 1
   },
-  "todayProblems": [
-    "Two Sum",
-    "Move Zeroes",
-    "Remove Duplicates from Sorted Array"
-  ]
+  "todayProblems": [],
+  "usedTrophyDates": [],
+  "usedMilestones": []
 }
