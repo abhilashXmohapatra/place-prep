@@ -6,3 +6,4 @@
 | 4 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 14 Jun 2026 | 11:24 pm |
 | 5 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 15 Jun 2026 | 10:21 pm |
 | 6 | [3Sum Closest](./LeetCode/Medium/3Sum%20Closest) | [LeetCode](https://leetcode.com/problems/3sum-closest/) | Medium | 16 Jun 2026 | 11:28 pm |
+| 7 | [Triplets with Smaller Sum](./GeeksForGeeks/Medium/Triplets%20with%20Smaller%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | Medium | 17 Jun 2026 | 09:19 pm |
