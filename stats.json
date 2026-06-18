@@ -1,12 +1,12 @@
 {
-  "totalSolved": 7,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-06-17",
+  "totalSolved": 8,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-06-18",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 1
   },
@@ -17,17 +17,19 @@
     "GeeksForGeeks_Min_and_Max_in_Array": true,
     "LeetCode_3Sum": true,
     "LeetCode_3Sum_Closest": true,
-    "GeeksForGeeks_Triplets_with_Smaller_Sum": true
+    "GeeksForGeeks_Triplets_with_Smaller_Sum": true,
+    "LeetCode_Sort_Colors": true
   },
   "activityHistory": {
     "2026-06-14": 3,
     "2026-06-13": 1,
     "2026-06-15": 1,
     "2026-06-16": 1,
-    "2026-06-17": 1
+    "2026-06-17": 1,
+    "2026-06-18": 1
   },
   "todayProblems": [
-    "Triplets with Smaller Sum"
+    "Sort Colors"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
