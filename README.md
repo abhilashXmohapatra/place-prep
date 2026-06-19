@@ -8,3 +8,4 @@
 | 6 | [3Sum Closest](./LeetCode/Medium/3Sum%20Closest) | [LeetCode](https://leetcode.com/problems/3sum-closest/) | Medium | 16 Jun 2026 | 11:28 pm |
 | 7 | [Triplets with Smaller Sum](./GeeksForGeeks/Medium/Triplets%20with%20Smaller%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | Medium | 17 Jun 2026 | 09:19 pm |
 | 8 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 18 Jun 2026 | 12:06 pm |
+| 9 | [Max Sum Subarray of size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Easy | 19 Jun 2026 | 09:10 pm |
