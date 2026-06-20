@@ -10,3 +10,4 @@
 | 8 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 18 Jun 2026 | 12:06 pm |
 | 9 | [Max Sum Subarray of size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Easy | 19 Jun 2026 | 09:10 pm |
 | 10 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 19 Jun 2026 | 10:03 pm |
+| 11 | [Longest Substring with K Uniques](./GeeksForGeeks/Medium/Longest%20Substring%20with%20K%20Uniques) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | Medium | 20 Jun 2026 | 09:23 pm |

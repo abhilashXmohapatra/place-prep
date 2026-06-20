@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-06-19",
-  "todayCount": 2,
+  "totalSolved": 11,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-06-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 1
   },
@@ -20,7 +20,8 @@
     "GeeksForGeeks_Triplets_with_Smaller_Sum": true,
     "LeetCode_Sort_Colors": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
-    "LeetCode_Minimum_Size_Subarray_Sum": true
+    "LeetCode_Minimum_Size_Subarray_Sum": true,
+    "GeeksForGeeks_Longest_Substring_with_K_Uniques": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -29,11 +30,11 @@
     "2026-06-16": 1,
     "2026-06-17": 1,
     "2026-06-18": 1,
-    "2026-06-19": 2
+    "2026-06-19": 2,
+    "2026-06-20": 1
   },
   "todayProblems": [
-    "Max Sum Subarray of size K",
-    "Minimum Size Subarray Sum"
+    "Longest Substring with K Uniques"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
