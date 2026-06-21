@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-06-21",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 1
   },
@@ -23,7 +23,8 @@
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "GeeksForGeeks_Longest_Substring_with_K_Uniques": true,
     "LeetCode_Merge_Sorted_Array": true,
-    "LeetCode_Remove_Element": true
+    "LeetCode_Remove_Element": true,
+    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -34,11 +35,12 @@
     "2026-06-18": 1,
     "2026-06-19": 2,
     "2026-06-20": 1,
-    "2026-06-21": 2
+    "2026-06-21": 3
   },
   "todayProblems": [
     "Merge Sorted Array",
-    "Remove Element"
+    "Remove Element",
+    "Two Sum II - Input Array Is Sorted"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
