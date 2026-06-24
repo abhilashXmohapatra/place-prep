@@ -16,3 +16,4 @@
 | 14 | [Two Sum II - Input Array Is Sorted](./LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | 21 Jun 2026 | 10:13 pm |
 | 15 | [Prime Number](./GeeksForGeeks/Easy/Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Easy | 22 Jun 2026 | 11:18 pm |
 | 16 | [Remove Duplicates from Sorted Array II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | 23 Jun 2026 | 09:11 pm |
+| 17 | [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy | 24 Jun 2026 | 11:06 pm |
