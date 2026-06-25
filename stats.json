@@ -1,14 +1,14 @@
 {
-  "totalSolved": 17,
-  "currentStreak": 12,
-  "maxStreak": 12,
-  "lastSyncDate": "2026-06-24",
+  "totalSolved": 18,
+  "currentStreak": 13,
+  "maxStreak": 13,
+  "lastSyncDate": "2026-06-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
     "medium": 8,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "syncedProblems": {
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
@@ -27,7 +27,8 @@
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
     "GeeksForGeeks_Prime_Number": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true,
-    "GeeksForGeeks_Armstrong_Numbers": true
+    "GeeksForGeeks_Armstrong_Numbers": true,
+    "GeeksForGeeks_Factorial": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -41,10 +42,11 @@
     "2026-06-21": 3,
     "2026-06-22": 1,
     "2026-06-23": 1,
-    "2026-06-24": 1
+    "2026-06-24": 1,
+    "2026-06-25": 1
   },
   "todayProblems": [
-    "Armstrong Numbers"
+    "Factorial"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
