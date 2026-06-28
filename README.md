@@ -21,3 +21,4 @@
 | 19 | [Nth Fibonacci Number](./GeeksForGeeks/Easy/Nth%20Fibonacci%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | Easy | 26 Jun 2026 | 10:39 pm |
 | 20 | [Segregate 0s and 1s](./GeeksForGeeks/Easy/Segregate%200s%20and%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Easy | 27 Jun 2026 | 09:34 pm |
 | 21 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 27 Jun 2026 | 11:12 pm |
+| 22 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 28 Jun 2026 | 06:42 pm |
