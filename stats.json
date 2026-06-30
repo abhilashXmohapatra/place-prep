@@ -1,14 +1,14 @@
 {
-  "totalSolved": 23,
-  "currentStreak": 17,
-  "maxStreak": 17,
-  "lastSyncDate": "2026-06-29",
+  "totalSolved": 24,
+  "currentStreak": 18,
+  "maxStreak": 18,
+  "lastSyncDate": "2026-06-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
     "medium": 8,
     "hard": 0,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
@@ -33,7 +33,8 @@
     "GeeksForGeeks_Segregate_0s_and_1s": true,
     "LeetCode_Remove_Duplicates_from_Sorted_List": true,
     "LeetCode_Squares_of_a_Sorted_Array": true,
-    "GeeksForGeeks_Perfect_Numbers": true
+    "GeeksForGeeks_Perfect_Numbers": true,
+    "GeeksForGeeks_GCD_of_two_numbers": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -52,10 +53,11 @@
     "2026-06-26": 1,
     "2026-06-27": 2,
     "2026-06-28": 1,
-    "2026-06-29": 1
+    "2026-06-29": 1,
+    "2026-06-30": 1
   },
   "todayProblems": [
-    "Perfect Numbers"
+    "GCD of two numbers"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []

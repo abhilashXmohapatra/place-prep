@@ -23,3 +23,4 @@
 | 21 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 27 Jun 2026 | 11:12 pm |
 | 22 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 28 Jun 2026 | 06:42 pm |
 | 23 | [Perfect Numbers](./GeeksForGeeks/Easy/Perfect%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/perfect-numbers3207/1) | Easy | 29 Jun 2026 | 11:55 pm |
+| 24 | [GCD of two numbers](./GeeksForGeeks/Basic/GCD%20of%20two%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 30 Jun 2026 | 11:09 pm |
