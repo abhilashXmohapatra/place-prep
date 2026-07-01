@@ -24,3 +24,4 @@
 | 22 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 28 Jun 2026 | 06:42 pm |
 | 23 | [Perfect Numbers](./GeeksForGeeks/Easy/Perfect%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/perfect-numbers3207/1) | Easy | 29 Jun 2026 | 11:55 pm |
 | 24 | [GCD of two numbers](./GeeksForGeeks/Basic/GCD%20of%20two%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 30 Jun 2026 | 11:09 pm |
+| 25 | [Start Coding](./GeeksForGeeks/Basic/Start%20Coding) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/start-coding-1/1) | Basic | 01 Jul 2026 | 11:40 pm |
