@@ -26,3 +26,4 @@
 | 24 | [GCD of two numbers](./GeeksForGeeks/Basic/GCD%20of%20two%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 30 Jun 2026 | 11:09 pm |
 | 25 | [Start Coding](./GeeksForGeeks/Basic/Start%20Coding) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/start-coding-1/1) | Basic | 01 Jul 2026 | 11:40 pm |
 | 26 | [Learn to Comment](./GeeksForGeeks/Easy/Learn%20to%20Comment) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/learn-to-comment/1?page=1&category=python&sortBy=submissions) | Easy | 02 Jul 2026 | 11:22 pm |
+| 27 | [Print Without Newline](./GeeksForGeeks/Basic/Print%20Without%20Newline) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-without-newline-1605265372/1) | Basic | 03 Jul 2026 | 11:58 pm |
