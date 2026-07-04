@@ -27,3 +27,4 @@
 | 25 | [Start Coding](./GeeksForGeeks/Basic/Start%20Coding) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/start-coding-1/1) | Basic | 01 Jul 2026 | 11:40 pm |
 | 26 | [Learn to Comment](./GeeksForGeeks/Easy/Learn%20to%20Comment) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/learn-to-comment/1?page=1&category=python&sortBy=submissions) | Easy | 02 Jul 2026 | 11:22 pm |
 | 27 | [Print Without Newline](./GeeksForGeeks/Basic/Print%20Without%20Newline) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-without-newline-1605265372/1) | Basic | 03 Jul 2026 | 11:58 pm |
+| 28 | [Print GeeksForGeeks](./GeeksForGeeks/Easy/Print%20GeeksForGeeks) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-geeksforgeeks--141628/1) | Easy | 04 Jul 2026 | 11:18 pm |
