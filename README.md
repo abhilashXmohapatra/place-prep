@@ -29,3 +29,4 @@
 | 27 | [Print Without Newline](./GeeksForGeeks/Basic/Print%20Without%20Newline) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-without-newline-1605265372/1) | Basic | 03 Jul 2026 | 11:58 pm |
 | 28 | [Print GeeksForGeeks](./GeeksForGeeks/Easy/Print%20GeeksForGeeks) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-geeksforgeeks--141628/1) | Easy | 04 Jul 2026 | 11:18 pm |
 | 29 | [Taking Input](./GeeksForGeeks/Easy/Taking%20Input) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/taking-input/1) | Easy | 05 Jul 2026 | 10:46 pm |
+| 30 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1) | Basic | 06 Jul 2026 | 11:00 pm |

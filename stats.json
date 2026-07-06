@@ -1,14 +1,14 @@
 {
-  "totalSolved": 29,
-  "currentStreak": 23,
-  "maxStreak": 23,
-  "lastSyncDate": "2026-07-05",
+  "totalSolved": 30,
+  "currentStreak": 24,
+  "maxStreak": 24,
+  "lastSyncDate": "2026-07-06",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
     "medium": 8,
     "hard": 0,
-    "basic": 5
+    "basic": 6
   },
   "syncedProblems": {
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
@@ -39,7 +39,8 @@
     "GeeksForGeeks_Learn_to_Comment": true,
     "GeeksForGeeks_Print_Without_Newline": true,
     "GeeksForGeeks_Print_GeeksForGeeks": true,
-    "GeeksForGeeks_Taking_Input": true
+    "GeeksForGeeks_Taking_Input": true,
+    "GeeksForGeeks_Arithmetic_Operators": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -64,10 +65,11 @@
     "2026-07-02": 1,
     "2026-07-03": 1,
     "2026-07-04": 1,
-    "2026-07-05": 1
+    "2026-07-05": 1,
+    "2026-07-06": 1
   },
   "todayProblems": [
-    "Taking Input"
+    "Arithmetic Operators"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
