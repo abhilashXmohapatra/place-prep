@@ -30,3 +30,4 @@
 | 28 | [Print GeeksForGeeks](./GeeksForGeeks/Easy/Print%20GeeksForGeeks) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-geeksforgeeks--141628/1) | Easy | 04 Jul 2026 | 11:18 pm |
 | 29 | [Taking Input](./GeeksForGeeks/Easy/Taking%20Input) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/taking-input/1) | Easy | 05 Jul 2026 | 10:46 pm |
 | 30 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1) | Basic | 06 Jul 2026 | 11:00 pm |
+| 31 | [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) | Medium | 07 Jul 2026 | 11:36 pm |
