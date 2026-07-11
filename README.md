@@ -35,3 +35,4 @@
 | 33 | [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 08 Jul 2026 | 06:48 pm |
 | 34 | [Swap The Numbers](./GeeksForGeeks/Basic/Swap%20The%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/swap-the-numbers/1?page=1&category=Java&sortBy=submissions) | Basic | 09 Jul 2026 | 11:51 pm |
 | 35 | [The If Statement](./GeeksForGeeks/Basic/The%20If%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-if-statement--113256/1) | Basic | 10 Jul 2026 | 11:49 pm |
+| 36 | [The Else Statement](./GeeksForGeeks/Basic/The%20Else%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-statement--115735/1) | Basic | 11 Jul 2026 | 11:50 pm |

@@ -1,0 +1,17 @@
+# The Else Statement
+
+## Difficulty: Basic
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/the-else-statement--115735/1)
+
+## Solved On
+11 Jul 2026 at 11:50 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/the-else-statement--115735/1">The Else Statement</a></h2><h3>Difficulty Level: Basic</h3><hr><p><span style="font-size: 18px;">Take an interger input <strong>a</strong>, and then use the if statement to print "<strong>Big</strong>" (without quotes) if the given number is greater than 100, and use the else statement to print "<strong>Small</strong>" (without quotes) when the number is smaller than or equal to 100.</span></p>
+<p><span style="font-size: 18px;"><strong>Note:</strong> After printing the output, y</span><span style="font-size: 18px;">ou should move the cursor to the new line.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input:</strong></span> <span style="font-size: 18.6667px;">a</span><span style="font-size: 18px;"> = 10<br><strong>Output:</strong> Small<br><strong>Explanation</strong>: 10 is smaller than 100, so our else statement works and we print Small.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>a = 101<br><strong>Output: </strong>Big<br><strong>Explanation</strong>: 101 is greater than 100, so our if statement works and we print Big.</span></pre>
