@@ -37,3 +37,4 @@
 | 35 | [The If Statement](./GeeksForGeeks/Basic/The%20If%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-if-statement--113256/1) | Basic | 10 Jul 2026 | 11:49 pm |
 | 36 | [The Else Statement](./GeeksForGeeks/Basic/The%20Else%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-statement--115735/1) | Basic | 11 Jul 2026 | 11:50 pm |
 | 37 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 12 Jul 2026 | 04:02 pm |
+| 38 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 13 Jul 2026 | 12:48 pm |
