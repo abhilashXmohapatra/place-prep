@@ -1,14 +1,14 @@
 {
-  "totalSolved": 38,
-  "currentStreak": 31,
-  "maxStreak": 31,
-  "lastSyncDate": "2026-07-13",
+  "totalSolved": 39,
+  "currentStreak": 32,
+  "maxStreak": 32,
+  "lastSyncDate": "2026-07-14",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
     "medium": 12,
     "hard": 1,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
@@ -48,7 +48,8 @@
     "GeeksForGeeks_The_If_Statement": true,
     "GeeksForGeeks_The_Else_Statement": true,
     "LeetCode_Minimum_Window_Substring": true,
-    "LeetCode_Max_Consecutive_Ones_III": true
+    "LeetCode_Max_Consecutive_Ones_III": true,
+    "GeeksForGeeks_The_Else_if_Statement": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -81,10 +82,11 @@
     "2026-07-10": 1,
     "2026-07-11": 1,
     "2026-07-12": 1,
-    "2026-07-13": 1
+    "2026-07-13": 1,
+    "2026-07-14": 1
   },
   "todayProblems": [
-    "Max Consecutive Ones III"
+    "The Else if Statement"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
