@@ -39,3 +39,4 @@
 | 37 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 12 Jul 2026 | 04:02 pm |
 | 38 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 13 Jul 2026 | 12:48 pm |
 | 39 | [The Else if Statement](./GeeksForGeeks/Basic/The%20Else%20if%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-if-statement/1) | Basic | 14 Jul 2026 | 11:51 pm |
+| 40 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 19 Jul 2026 | 11:16 pm |
