@@ -42,3 +42,4 @@
 | 40 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 19 Jul 2026 | 11:16 pm |
 | 41 | [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | 20 Jul 2026 | 01:06 am |
 | 42 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 20 Jul 2026 | 12:17 pm |
+| 43 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 20 Jul 2026 | 05:46 pm |
