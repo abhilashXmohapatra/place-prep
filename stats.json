@@ -1,11 +1,11 @@
 {
-  "totalSolved": 45,
-  "currentStreak": 3,
+  "totalSolved": 46,
+  "currentStreak": 4,
   "maxStreak": 32,
-  "lastSyncDate": "2026-07-21",
+  "lastSyncDate": "2026-07-22",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 14,
     "hard": 1,
     "basic": 10
@@ -55,7 +55,8 @@
     "LeetCode_Middle_of_the_Linked_List": true,
     "LeetCode_Find_the_Duplicate_Number": true,
     "LeetCode_Happy_Number": true,
-    "LeetCode_First_Unique_Character_in_a_String": true
+    "LeetCode_First_Unique_Character_in_a_String": true,
+    "LeetCode_Ransom_Note": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -92,10 +93,11 @@
     "2026-07-14": 1,
     "2026-07-19": 1,
     "2026-07-20": 4,
-    "2026-07-21": 1
+    "2026-07-21": 1,
+    "2026-07-22": 1
   },
   "todayProblems": [
-    "First Unique Character in a String"
+    "Ransom Note"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
