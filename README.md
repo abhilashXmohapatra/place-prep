@@ -48,3 +48,4 @@
 | 46 | [Ransom Note](./LeetCode/Easy/Ransom%20Note) | [LeetCode](https://leetcode.com/problems/ransom-note/) | Easy | 22 Jul 2026 | 10:38 pm |
 | 47 | [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | 23 Jul 2026 | 12:05 am |
 | 48 | [Longest Palindrome](./LeetCode/Easy/Longest%20Palindrome) | [LeetCode](https://leetcode.com/problems/longest-palindrome/) | Easy | 23 Jul 2026 | 01:29 am |
+| 49 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 23 Jul 2026 | 07:35 pm |
