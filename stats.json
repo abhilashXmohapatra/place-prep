@@ -1,12 +1,12 @@
 {
-  "totalSolved": 50,
-  "currentStreak": 6,
+  "totalSolved": 51,
+  "currentStreak": 7,
   "maxStreak": 32,
-  "lastSyncDate": "2026-07-24",
+  "lastSyncDate": "2026-07-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 25,
-    "medium": 14,
+    "medium": 15,
     "hard": 1,
     "basic": 10
   },
@@ -60,7 +60,8 @@
     "LeetCode_Maximum_Number_of_Balloons": true,
     "LeetCode_Longest_Palindrome": true,
     "LeetCode_Binary_Search": true,
-    "GeeksForGeeks_Ceil_in_a_Sorted_Array": true
+    "GeeksForGeeks_Ceil_in_a_Sorted_Array": true,
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -100,10 +101,11 @@
     "2026-07-21": 1,
     "2026-07-22": 1,
     "2026-07-23": 3,
-    "2026-07-24": 1
+    "2026-07-24": 1,
+    "2026-07-25": 1
   },
   "todayProblems": [
-    "Ceil in a Sorted Array"
+    "Find First and Last Position of Element in Sorted Array"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
