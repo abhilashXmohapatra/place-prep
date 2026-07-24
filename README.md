@@ -49,3 +49,4 @@
 | 47 | [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | 23 Jul 2026 | 12:05 am |
 | 48 | [Longest Palindrome](./LeetCode/Easy/Longest%20Palindrome) | [LeetCode](https://leetcode.com/problems/longest-palindrome/) | Easy | 23 Jul 2026 | 01:29 am |
 | 49 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 23 Jul 2026 | 07:35 pm |
+| 50 | [Ceil in a Sorted Array](./GeeksForGeeks/Easy/Ceil%20in%20a%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1?utm=codolio) | Easy | 24 Jul 2026 | 11:22 am |
