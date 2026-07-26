@@ -52,3 +52,4 @@
 | 50 | [Ceil in a Sorted Array](./GeeksForGeeks/Easy/Ceil%20in%20a%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1?utm=codolio) | Easy | 24 Jul 2026 | 11:22 am |
 | 51 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 25 Jul 2026 | 12:41 am |
 | 52 | [Switch Statement](./GeeksForGeeks/Basic/Switch%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/switch-statement/1) | Basic | 25 Jul 2026 | 11:53 pm |
+| 53 | [Java loops | Set 1](./GeeksForGeeks/Basic/Java%20loops%20%7C%20Set%201) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-loops-set-11726/1) | Basic | 26 Jul 2026 | 04:14 pm |
