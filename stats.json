@@ -1,12 +1,12 @@
 {
-  "totalSolved": 53,
+  "totalSolved": 54,
   "currentStreak": 8,
   "maxStreak": 32,
   "lastSyncDate": "2026-07-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 25,
-    "medium": 15,
+    "medium": 16,
     "hard": 1,
     "basic": 12
   },
@@ -63,7 +63,8 @@
     "GeeksForGeeks_Ceil_in_a_Sorted_Array": true,
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
     "GeeksForGeeks_Switch_Statement": true,
-    "GeeksForGeeks_Java_loops_|_Set_1": true
+    "GeeksForGeeks_Java_loops_|_Set_1": true,
+    "LeetCode_Peak_Index_in_a_Mountain_Array": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -105,10 +106,11 @@
     "2026-07-23": 3,
     "2026-07-24": 1,
     "2026-07-25": 2,
-    "2026-07-26": 1
+    "2026-07-26": 2
   },
   "todayProblems": [
-    "Java loops | Set 1"
+    "Java loops | Set 1",
+    "Peak Index in a Mountain Array"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
