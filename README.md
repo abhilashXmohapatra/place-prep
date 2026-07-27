@@ -54,3 +54,4 @@
 | 52 | [Switch Statement](./GeeksForGeeks/Basic/Switch%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/switch-statement/1) | Basic | 25 Jul 2026 | 11:53 pm |
 | 53 | [Java loops | Set 1](./GeeksForGeeks/Basic/Java%20loops%20%7C%20Set%201) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-loops-set-11726/1) | Basic | 26 Jul 2026 | 04:14 pm |
 | 54 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 26 Jul 2026 | 11:10 pm |
+| 55 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 27 Jul 2026 | 12:23 pm |
