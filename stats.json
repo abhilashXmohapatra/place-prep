@@ -1,12 +1,12 @@
 {
-  "totalSolved": 55,
-  "currentStreak": 9,
+  "totalSolved": 56,
+  "currentStreak": 10,
   "maxStreak": 32,
-  "lastSyncDate": "2026-07-27",
+  "lastSyncDate": "2026-07-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 25,
-    "medium": 17,
+    "medium": 18,
     "hard": 1,
     "basic": 12
   },
@@ -65,7 +65,8 @@
     "GeeksForGeeks_Switch_Statement": true,
     "GeeksForGeeks_Java_loops_|_Set_1": true,
     "LeetCode_Peak_Index_in_a_Mountain_Array": true,
-    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -108,10 +109,11 @@
     "2026-07-24": 1,
     "2026-07-25": 2,
     "2026-07-26": 2,
-    "2026-07-27": 1
+    "2026-07-27": 1,
+    "2026-07-28": 1
   },
   "todayProblems": [
-    "Find Minimum in Rotated Sorted Array"
+    "Search in Rotated Sorted Array"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
