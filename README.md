@@ -57,3 +57,4 @@
 | 55 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 27 Jul 2026 | 12:23 pm |
 | 56 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 28 Jul 2026 | 10:47 am |
 | 57 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 29 Jul 2026 | 12:41 pm |
+| 58 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1?utm=codolio) | Medium | 30 Jul 2026 | 12:16 pm |
