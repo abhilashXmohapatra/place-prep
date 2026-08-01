@@ -59,3 +59,4 @@
 | 57 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 29 Jul 2026 | 12:41 pm |
 | 58 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1?utm=codolio) | Medium | 30 Jul 2026 | 12:16 pm |
 | 59 | [Allocate Minimum Pages](./GeeksForGeeks/Medium/Allocate%20Minimum%20Pages) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1?utm=codolio) | Medium | 31 Jul 2026 | 11:40 am |
+| 60 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 01 Aug 2026 | 08:59 am |
