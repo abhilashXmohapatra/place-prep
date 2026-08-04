@@ -1,13 +1,13 @@
 {
-  "totalSolved": 62,
-  "currentStreak": 16,
+  "totalSolved": 63,
+  "currentStreak": 17,
   "maxStreak": 32,
-  "lastSyncDate": "2026-08-03",
+  "lastSyncDate": "2026-08-04",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 25,
     "medium": 24,
-    "hard": 1,
+    "hard": 2,
     "basic": 12
   },
   "syncedProblems": {
@@ -72,7 +72,8 @@
     "GeeksForGeeks_Allocate_Minimum_Pages": true,
     "LeetCode_Search_a_2D_Matrix": true,
     "LeetCode_Search_a_2D_Matrix_II": true,
-    "LeetCode_Kth_Smallest_Element_in_a_Sorted_Matrix": true
+    "LeetCode_Kth_Smallest_Element_in_a_Sorted_Matrix": true,
+    "LeetCode_Kth_Smallest_Number_in_Multiplication_Table": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -122,10 +123,11 @@
     "2026-07-31": 1,
     "2026-08-01": 1,
     "2026-08-02": 1,
-    "2026-08-03": 1
+    "2026-08-03": 1,
+    "2026-08-04": 1
   },
   "todayProblems": [
-    "Kth Smallest Element in a Sorted Matrix"
+    "Kth Smallest Number in Multiplication Table"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
