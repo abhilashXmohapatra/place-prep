@@ -63,3 +63,4 @@
 | 61 | [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | 02 Aug 2026 | 08:59 am |
 | 62 | [Kth Smallest Element in a Sorted Matrix](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | 03 Aug 2026 | 11:15 am |
 | 63 | [Kth Smallest Number in Multiplication Table](./LeetCode/Hard/Kth%20Smallest%20Number%20in%20Multiplication%20Table) | [LeetCode](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | Hard | 04 Aug 2026 | 09:32 am |
+| 64 | [Number of Occurrence](./GeeksForGeeks/Easy/Number%20of%20Occurrence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1?utm=codolio) | Easy | 05 Aug 2026 | 10:51 am |
