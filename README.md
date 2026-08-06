@@ -65,3 +65,4 @@
 | 63 | [Kth Smallest Number in Multiplication Table](./LeetCode/Hard/Kth%20Smallest%20Number%20in%20Multiplication%20Table) | [LeetCode](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | Hard | 04 Aug 2026 | 09:32 am |
 | 64 | [Number of Occurrence](./GeeksForGeeks/Easy/Number%20of%20Occurrence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1?utm=codolio) | Easy | 05 Aug 2026 | 10:51 am |
 | 65 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 05 Aug 2026 | 12:24 pm |
+| 66 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 06 Aug 2026 | 09:14 am |

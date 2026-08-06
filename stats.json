@@ -1,12 +1,12 @@
 {
-  "totalSolved": 65,
-  "currentStreak": 18,
+  "totalSolved": 66,
+  "currentStreak": 19,
   "maxStreak": 32,
-  "lastSyncDate": "2026-08-05",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-06",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 25,
+    "medium": 26,
     "hard": 2,
     "basic": 12
   },
@@ -75,7 +75,8 @@
     "LeetCode_Kth_Smallest_Element_in_a_Sorted_Matrix": true,
     "LeetCode_Kth_Smallest_Number_in_Multiplication_Table": true,
     "GeeksForGeeks_Number_of_Occurrence": true,
-    "LeetCode_Find_Peak_Element": true
+    "LeetCode_Find_Peak_Element": true,
+    "LeetCode_Maximum_Subarray": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -127,11 +128,11 @@
     "2026-08-02": 1,
     "2026-08-03": 1,
     "2026-08-04": 1,
-    "2026-08-05": 2
+    "2026-08-05": 2,
+    "2026-08-06": 1
   },
   "todayProblems": [
-    "Number of Occurrence",
-    "Find Peak Element"
+    "Maximum Subarray"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
