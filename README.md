@@ -67,3 +67,4 @@
 | 65 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 05 Aug 2026 | 12:24 pm |
 | 66 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 06 Aug 2026 | 09:14 am |
 | 67 | [Minimum Sum Subarray](./GeeksForGeeks/Medium/Minimum%20Sum%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1?utm=codolio) | Medium | 06 Aug 2026 | 09:17 am |
+| 68 | [Find Kth Rotation](./GeeksForGeeks/Easy/Find%20Kth%20Rotation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotation4723/1?utm=codolio) | Easy | 07 Aug 2026 | 08:52 am |
