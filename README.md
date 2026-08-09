@@ -69,3 +69,4 @@
 | 67 | [Minimum Sum Subarray](./GeeksForGeeks/Medium/Minimum%20Sum%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1?utm=codolio) | Medium | 06 Aug 2026 | 09:17 am |
 | 68 | [Find Kth Rotation](./GeeksForGeeks/Easy/Find%20Kth%20Rotation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotation4723/1?utm=codolio) | Easy | 07 Aug 2026 | 08:52 am |
 | 69 | [Minimum Number of Days to Make m Bouquets](./LeetCode/Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | 08 Aug 2026 | 11:09 pm |
+| 70 | [H-Index II](./LeetCode/Medium/H-Index%20II) | [LeetCode](https://leetcode.com/problems/h-index-ii/) | Medium | 09 Aug 2026 | 10:57 am |

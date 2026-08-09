@@ -1,12 +1,12 @@
 {
-  "totalSolved": 69,
-  "currentStreak": 21,
+  "totalSolved": 70,
+  "currentStreak": 22,
   "maxStreak": 32,
-  "lastSyncDate": "2026-08-08",
+  "lastSyncDate": "2026-08-09",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 28,
+    "medium": 29,
     "hard": 2,
     "basic": 12
   },
@@ -79,7 +79,8 @@
     "LeetCode_Maximum_Subarray": true,
     "GeeksForGeeks_Minimum_Sum_Subarray": true,
     "GeeksForGeeks_Find_Kth_Rotation": true,
-    "LeetCode_Minimum_Number_of_Days_to_Make_m_Bouquets": true
+    "LeetCode_Minimum_Number_of_Days_to_Make_m_Bouquets": true,
+    "LeetCode_H-Index_II": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -134,10 +135,11 @@
     "2026-08-05": 2,
     "2026-08-06": 2,
     "2026-08-07": 1,
-    "2026-08-08": 1
+    "2026-08-08": 1,
+    "2026-08-09": 1
   },
   "todayProblems": [
-    "Minimum Number of Days to Make m Bouquets"
+    "H-Index II"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
