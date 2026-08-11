@@ -1,12 +1,12 @@
 {
-  "totalSolved": 71,
-  "currentStreak": 23,
+  "totalSolved": 72,
+  "currentStreak": 24,
   "maxStreak": 32,
-  "lastSyncDate": "2026-08-10",
+  "lastSyncDate": "2026-08-11",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 30,
+    "medium": 31,
     "hard": 2,
     "basic": 12
   },
@@ -81,7 +81,8 @@
     "GeeksForGeeks_Find_Kth_Rotation": true,
     "LeetCode_Minimum_Number_of_Days_to_Make_m_Bouquets": true,
     "LeetCode_H-Index_II": true,
-    "LeetCode_Maximum_Candies_Allocated_to_K_Children": true
+    "LeetCode_Maximum_Candies_Allocated_to_K_Children": true,
+    "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -138,10 +139,11 @@
     "2026-08-07": 1,
     "2026-08-08": 1,
     "2026-08-09": 1,
-    "2026-08-10": 1
+    "2026-08-10": 1,
+    "2026-08-11": 1
   },
   "todayProblems": [
-    "Maximum Candies Allocated to K Children"
+    "Capacity To Ship Packages Within D Days"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []

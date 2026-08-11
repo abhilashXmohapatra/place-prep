@@ -71,3 +71,4 @@
 | 69 | [Minimum Number of Days to Make m Bouquets](./LeetCode/Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | 08 Aug 2026 | 11:09 pm |
 | 70 | [H-Index II](./LeetCode/Medium/H-Index%20II) | [LeetCode](https://leetcode.com/problems/h-index-ii/) | Medium | 09 Aug 2026 | 10:57 am |
 | 71 | [Maximum Candies Allocated to K Children](./LeetCode/Medium/Maximum%20Candies%20Allocated%20to%20K%20Children) | [LeetCode](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | Medium | 10 Aug 2026 | 10:57 am |
+| 72 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 11 Aug 2026 | 11:43 am |
