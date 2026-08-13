@@ -1,12 +1,12 @@
 {
-  "totalSolved": 73,
-  "currentStreak": 25,
+  "totalSolved": 74,
+  "currentStreak": 26,
   "maxStreak": 32,
-  "lastSyncDate": "2026-08-12",
+  "lastSyncDate": "2026-08-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 31,
+    "medium": 32,
     "hard": 3,
     "basic": 12
   },
@@ -83,7 +83,8 @@
     "LeetCode_H-Index_II": true,
     "LeetCode_Maximum_Candies_Allocated_to_K_Children": true,
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
-    "LeetCode_Split_Array_Largest_Sum": true
+    "LeetCode_Split_Array_Largest_Sum": true,
+    "LeetCode_Maximum_Product_Subarray": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -142,10 +143,11 @@
     "2026-08-09": 1,
     "2026-08-10": 1,
     "2026-08-11": 1,
-    "2026-08-12": 1
+    "2026-08-12": 1,
+    "2026-08-13": 1
   },
   "todayProblems": [
-    "Split Array Largest Sum"
+    "Maximum Product Subarray"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
