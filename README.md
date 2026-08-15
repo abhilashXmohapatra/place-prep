@@ -75,3 +75,4 @@
 | 73 | [Split Array Largest Sum](./LeetCode/Hard/Split%20Array%20Largest%20Sum) | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | Hard | 12 Aug 2026 | 09:27 am |
 | 74 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 13 Aug 2026 | 11:23 am |
 | 75 | [Maximum Subarray Sum with One Deletion](./LeetCode/Medium/Maximum%20Subarray%20Sum%20with%20One%20Deletion) | [LeetCode](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Medium | 14 Aug 2026 | 01:53 pm |
+| 76 | [Maximum Absolute Sum of Any Subarray](./LeetCode/Medium/Maximum%20Absolute%20Sum%20of%20Any%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | 15 Aug 2026 | 10:50 am |
