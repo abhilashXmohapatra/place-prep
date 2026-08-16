@@ -1,12 +1,12 @@
 {
-  "totalSolved": 76,
-  "currentStreak": 28,
+  "totalSolved": 77,
+  "currentStreak": 29,
   "maxStreak": 32,
-  "lastSyncDate": "2026-08-15",
+  "lastSyncDate": "2026-08-16",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 34,
+    "medium": 35,
     "hard": 3,
     "basic": 12
   },
@@ -86,7 +86,8 @@
     "LeetCode_Split_Array_Largest_Sum": true,
     "LeetCode_Maximum_Product_Subarray": true,
     "LeetCode_Maximum_Subarray_Sum_with_One_Deletion": true,
-    "LeetCode_Maximum_Absolute_Sum_of_Any_Subarray": true
+    "LeetCode_Maximum_Absolute_Sum_of_Any_Subarray": true,
+    "LeetCode_Maximum_Sum_Circular_Subarray": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -148,10 +149,11 @@
     "2026-08-12": 1,
     "2026-08-13": 1,
     "2026-08-14": 1,
-    "2026-08-15": 1
+    "2026-08-15": 1,
+    "2026-08-16": 1
   },
   "todayProblems": [
-    "Maximum Absolute Sum of Any Subarray"
+    "Maximum Sum Circular Subarray"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
