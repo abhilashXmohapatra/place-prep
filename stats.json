@@ -1,12 +1,12 @@
 {
-  "totalSolved": 79,
-  "currentStreak": 31,
+  "totalSolved": 80,
+  "currentStreak": 32,
   "maxStreak": 32,
-  "lastSyncDate": "2026-08-18",
+  "lastSyncDate": "2026-08-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 28,
-    "medium": 36,
+    "medium": 37,
     "hard": 3,
     "basic": 12
   },
@@ -89,7 +89,8 @@
     "LeetCode_Maximum_Absolute_Sum_of_Any_Subarray": true,
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
     "LeetCode_Find_Pivot_Index": true,
-    "LeetCode_Subarray_Sum_Equals_K": true
+    "LeetCode_Subarray_Sum_Equals_K": true,
+    "LeetCode_Subarray_Sums_Divisible_by_K": true
   },
   "activityHistory": {
     "2026-06-14": 3,
@@ -154,10 +155,11 @@
     "2026-08-15": 1,
     "2026-08-16": 1,
     "2026-08-17": 1,
-    "2026-08-18": 1
+    "2026-08-18": 1,
+    "2026-08-19": 1
   },
   "todayProblems": [
-    "Subarray Sum Equals K"
+    "Subarray Sums Divisible by K"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
