@@ -82,3 +82,4 @@
 | 80 | [Subarray Sums Divisible by K](./LeetCode/Medium/Subarray%20Sums%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | 19 Aug 2026 | 09:42 am |
 | 81 | [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) | [LeetCode](https://leetcode.com/problems/contiguous-array/) | Medium | 20 Aug 2026 | 02:07 pm |
 | 82 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 21 Aug 2026 | 11:53 am |
+| 83 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 22 Aug 2026 | 11:58 am |
