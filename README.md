@@ -85,3 +85,4 @@
 | 83 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 22 Aug 2026 | 11:58 am |
 | 84 | [Interval List Intersections](./LeetCode/Medium/Interval%20List%20Intersections) | [LeetCode](https://leetcode.com/problems/interval-list-intersections/) | Medium | 23 Aug 2026 | 04:23 pm |
 | 85 | [Overlapping Intervals](./GeeksForGeeks/Easy/Overlapping%20Intervals) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/overlapping-intervals--174556/1) | Easy | 24 Aug 2026 | 10:49 am |
+| 86 | [Meeting Rooms II](./GeeksForGeeks/Medium/Meeting%20Rooms%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1?utm=codolio) | Medium | 25 Aug 2026 | 08:38 pm |
