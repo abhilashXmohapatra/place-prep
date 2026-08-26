@@ -86,3 +86,4 @@
 | 84 | [Interval List Intersections](./LeetCode/Medium/Interval%20List%20Intersections) | [LeetCode](https://leetcode.com/problems/interval-list-intersections/) | Medium | 23 Aug 2026 | 04:23 pm |
 | 85 | [Overlapping Intervals](./GeeksForGeeks/Easy/Overlapping%20Intervals) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/overlapping-intervals--174556/1) | Easy | 24 Aug 2026 | 10:49 am |
 | 86 | [Meeting Rooms II](./GeeksForGeeks/Medium/Meeting%20Rooms%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1?utm=codolio) | Medium | 25 Aug 2026 | 08:38 pm |
+| 87 | [1-D prefix sum](./GeeksForGeeks/Easy/1-D%20prefix%20sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/1-d-prefix-sum/1) | Easy | 26 Aug 2026 | 06:25 pm |
